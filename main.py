@@ -1,3 +1,5 @@
+# Code written by Cezary Sawicki [sawickicezary@outlook.com] for recruitment process only.
+
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 
